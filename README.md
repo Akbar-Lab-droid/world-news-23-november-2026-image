@@ -1,8 +1,8 @@
 # The World in One Page — Monday 23 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261123-teal)](https://make.fun/c/news-image-20261123)
-[![make.fun](https://img.shields.io/badge/bounty-news--image--20261123-amber)](https://make.fun/c/news-image-20261123)
-[![make.fun](https://img.shields.io/badge/60%20verified%20stories-23%20Nov%202026-blue)](https://make.fun/c/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/Akbar-Lab-Droid/world-news-23-november-2026-image/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/Akbar-Lab-Droid/world-news-23-november-2026-image/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A single 1024×1024 broadsheet image summing up the world news of
 **Monday 23 November 2026** — 60 verified stories in one page.
